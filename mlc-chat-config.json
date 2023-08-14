@@ -1,6 +1,6 @@
 {
-    "model_lib": "doctorGPT_mini",
-    "local_id": "doctorGPT_mini",
+    "model_lib": "RedPajama-INCITE-Chat-3B-v1-q4f16_0",
+    "local_id": "RedPajama-INCITE-Chat-3B-v1-q4f16_0",
     "conv_template": "redpajama_chat",
     "temperature": 0.7,
     "repetition_penalty": 1.01,
